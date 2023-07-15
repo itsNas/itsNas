@@ -1,5 +1,3 @@
-# Nas' GitHub Profile
-
 Welcome to my GitHub profile! I'm Nas, a passionate full-stack developer with a love for creating innovative web solutions. I strive to build high-quality applications and deliver intuitive user experiences. With a strong foundation in JavaScript, HTML, and CSS, I enjoy exploring new technologies and staying up-to-date with the latest trends in the web development industry.
 
 ## 🌱 Learning Journey
