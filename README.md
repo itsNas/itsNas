@@ -1,15 +1,19 @@
-╔══════════════════════════════╗
-║                              ║
-║     Hi, I'm Nas! 👋          ║
-║                              ║
-╚══════════════════════════════╝
+👋 Hi there! I'm Nasrullah, a self-taught frontend developer passionate about creating visually appealing and user-friendly web applications. 
 
-👩‍💻 I am a full-stack developer with a passion for creating innovative web solutions. I love building and designing web applications, crafting intuitive user experiences, and exploring new technologies. When I'm not coding, you can find me immersed in the world of music, enjoying outdoor adventures, or honing my photography skills. 🎵🏞️📸
+🚀 With a background in mechanical engineering, I bring a unique perspective to my coding projects, combining technical expertise with a keen eye for detail and problem-solving skills.
 
-💻 My Tech Stack:
-JavaScript • HTML • CSS • React • Node.js • Express.js • MongoDB • SQL • RESTful APIs • Git • GitHub • VS Code • Adobe Photoshop
+💻 My areas of focus include JavaScript and ReactJS, and I enjoy exploring the latest web development trends and technologies. I strive to write clean and efficient code, always aiming for optimal performance and maintainability.
 
-Let's connect and collaborate on exciting projects! 😄
+🌱 I am continuously learning and expanding my skill set, seeking opportunities to work on exciting projects and collaborate with fellow developers. 
+
+📫 You can reach me via email at nbensaloji@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/nas-bensaloji-947945271/).
+
+⚡ When I'm not coding, you can find me enjoying a cup of coffee, reading, or exploring the great outdoors.
+
+🔗 Check out my portfolio and explore my projects at [https://nasrullahdev.vercel.app/](https://nasrullahdev.vercel.app/).
+
+🌟 Let's connect and collaborate on some awesome projects!
+
 
 
 <!--
