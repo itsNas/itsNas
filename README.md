@@ -1,17 +1,44 @@
-👋 Hi there! I'm Nasrullah, a self-taught frontend developer passionate about creating visually appealing and user-friendly web applications. 
+# Nas' GitHub Profile
 
-💻 My areas of focus include JavaScript and ReactJS, and I enjoy exploring the latest web development trends and technologies. I strive to write clean and efficient code, always aiming for optimal performance and maintainability.
+Welcome to my GitHub profile! I'm Nas, a passionate full-stack developer with a love for creating innovative web solutions. I strive to build high-quality applications and deliver intuitive user experiences. With a strong foundation in JavaScript, HTML, and CSS, I enjoy exploring new technologies and staying up-to-date with the latest trends in the web development industry.
 
-🌱 I am continuously learning and expanding my skill set, seeking opportunities to work on exciting projects and collaborate with fellow developers. 
+## 🌱 Learning Journey
 
-⚡ When I'm not coding, you can find me enjoying a cup of coffee, reading, or exploring the great outdoors.
+I am continuously learning and expanding my skill set. Currently, I'm focusing on mastering the following technologies:
 
-📫 You can reach me via email at nbensaloji@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/nas-bensaloji-947945271/).
+- React.js: Building dynamic and interactive user interfaces.
+- Node.js: Developing server-side applications and APIs.
+- MongoDB: Working with NoSQL databases and data modeling.
+- RESTful APIs: Creating robust and scalable APIs for seamless integration.
 
-🔗 Check out my portfolio and explore my projects at [https://nasrullahdev.vercel.app/](https://nasrullahdev.vercel.app/).
+## 💼 Professional Experience
 
-🌟 Let's connect and collaborate on some awesome projects!
+I have gained practical experience through various projects and freelance work. I thrive in collaborative environments and have a track record of delivering high-quality solutions. I'm always open to exciting opportunities and new challenges.
 
+## 🛠️ Tech Stack
+
+Here are some of the technologies and tools that I work with:
+
+- Programming Languages: JavaScript, HTML, CSS
+- Front-end Development: React.js, Redux, Vue.js, Bootstrap, Tailwind CSS
+- Back-end Development: Node.js, Express.js, MongoDB, SQL
+- Version Control: Git, GitHub
+- IDEs: Visual Studio Code
+- Other Tools: Adobe Photoshop, Figma
+
+## 📫 Let's Connect
+
+I'm always excited to connect with fellow developers, share knowledge, and collaborate on projects. You can reach me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+
+## 🌟 Let's Collaborate
+
+If you have any suggestions, ideas, or improvements for any of my projects, feel free to reach out or submit a pull request. I believe in the power of collaboration and the open-source community.
+
+## 📊 GitHub Stats
+
+![Nas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsNas&show_icons=true&theme=radical)
+
+Thank you for visiting my profile! Don't forget to check out my repositories and explore my projects. Let's create amazing web experiences together!
 
 
 <!--
