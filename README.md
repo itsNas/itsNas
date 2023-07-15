@@ -1,28 +1,29 @@
-Welcome to my GitHub profile! I'm Nas, a passionate full-stack developer with a love for creating innovative web solutions. I strive to build high-quality applications and deliver intuitive user experiences. With a strong foundation in JavaScript, HTML, and CSS, I enjoy exploring new technologies and staying up-to-date with the latest trends in the web development industry.
+#Hi I'm Nas! 
+
+Welcome to my GitHub profile! I'm Nas, a passionate frontend developer with a love for creating innovative web solutions. I strive to build high-quality applications and deliver intuitive user experiences. With a strong foundation in JavaScript, HTML, and CSS, I enjoy exploring new technologies and staying up-to-date with the latest trends in frontend development.
 
 ## 🌱 Learning Journey
 
 I am continuously learning and expanding my skill set. Currently, I'm focusing on mastering the following technologies:
 
 - React.js: Building dynamic and interactive user interfaces.
-- Node.js: Developing server-side applications and APIs.
-- MongoDB: Working with NoSQL databases and data modeling.
-- RESTful APIs: Creating robust and scalable APIs for seamless integration.
+- JavaScript frameworks and libraries: Vue.js, Angular, etc.
+- Responsive web design: Creating seamless experiences across devices.
+- UI/UX design principles: Crafting visually appealing and user-friendly interfaces.
 
 ## 💼 Professional Experience
 
-I have gained practical experience through various projects and freelance work. I thrive in collaborative environments and have a track record of delivering high-quality solutions. I'm always open to exciting opportunities and new challenges.
+I have gained practical experience through various projects and freelance work. I thrive in collaborative environments and have a track record of delivering high-quality frontend solutions. I'm always open to exciting opportunities and new challenges.
 
 ## 🛠️ Tech Stack
 
 Here are some of the technologies and tools that I work with:
 
 - Programming Languages: JavaScript, HTML, CSS
-- Front-end Development: React.js, Redux, Vue.js, Bootstrap, Tailwind CSS
-- Back-end Development: Node.js, Express.js, MongoDB, SQL
+- Frontend Development: React.js, Vue.js, CSS frameworks (Bootstrap, Tailwind CSS)
+- UI/UX Design: Figma, Adobe Photoshop
 - Version Control: Git, GitHub
 - IDEs: Visual Studio Code
-- Other Tools: Adobe Photoshop, Figma
 
 ## 📫 Let's Connect
 
@@ -37,6 +38,7 @@ If you have any suggestions, ideas, or improvements for any of my projects, feel
 ![Nas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsNas&show_icons=true&theme=radical)
 
 Thank you for visiting my profile! Don't forget to check out my repositories and explore my projects. Let's create amazing web experiences together!
+
 
 
 <!--
