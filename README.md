@@ -28,7 +28,7 @@ Here are some of the technologies and tools that I work with:
 
 ## 📫 Let's Connect
 
-I'm always excited to connect with fellow developers, share knowledge, and collaborate on projects. You can reach me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+I'm always excited to connect with fellow developers, share knowledge, and collaborate on projects. You can reach me via email at [your-email@example.com](mailto:nbensaloji@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nas-bensaloji-947945271/).
 
 ## 🌟 Let's Collaborate
 
