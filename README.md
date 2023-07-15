@@ -1,14 +1,12 @@
 👋 Hi there! I'm Nasrullah, a self-taught frontend developer passionate about creating visually appealing and user-friendly web applications. 
 
-🚀 With a background in mechanical engineering, I bring a unique perspective to my coding projects, combining technical expertise with a keen eye for detail and problem-solving skills.
-
 💻 My areas of focus include JavaScript and ReactJS, and I enjoy exploring the latest web development trends and technologies. I strive to write clean and efficient code, always aiming for optimal performance and maintainability.
 
 🌱 I am continuously learning and expanding my skill set, seeking opportunities to work on exciting projects and collaborate with fellow developers. 
 
-📫 You can reach me via email at nbensaloji@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/nas-bensaloji-947945271/).
-
 ⚡ When I'm not coding, you can find me enjoying a cup of coffee, reading, or exploring the great outdoors.
+
+📫 You can reach me via email at nbensaloji@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/nas-bensaloji-947945271/).
 
 🔗 Check out my portfolio and explore my projects at [https://nasrullahdev.vercel.app/](https://nasrullahdev.vercel.app/).
 
